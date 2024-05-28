@@ -7,8 +7,7 @@ Commerical Truck Trader is the largest US-based e-commerice website for the buyi
 1. You'll need an integrated development environment (IDE) that can run Python code (e.g. Pycharm)
   a. I'll be using Visual Studio Code
     i. Note that this invovles downloading the package 'code-runner'
-2. You'll also need to download the following external packages: [zenrows](https://pypi.org/project/zenrows/)
-  b. [beautifulSoup](https://pypi.org/project/beautifulsoup4/)
+2. You'll also need to download the following external packages: [zenrows](https://pypi.org/project/zenrows/) & [beautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 
 ## Adjusting parameters of the scraper
