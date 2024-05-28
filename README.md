@@ -1,8 +1,6 @@
 # Instructions 
 
-Commerical Truck Trader is the largest US-based e-commerice website for the buying and selling of trucks. The project
-'usedTrucksScraper' scrapes Commercial Truck Tarder for used truck data. The output of running the scraper is a 
-csv data set. 
+Commerical Truck Trader is the largest US-based e-commerice website for the buying and selling of trucks. This web scraper extracts inforrmation from indivdual truck listings (e.g. price, year, mileage) in order to provide data on the used truck market. This extracted information is formatted into a csv data set. 
 
 ## Setting up programming environment
 
